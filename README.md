@@ -6,6 +6,7 @@
 ## Junior Frontend developer
 Обучаюсь программированию HTML / CSS / JS и ищу возможность применить знания на практике. Изучаю React, Vue. Имеется опыт натягивания вёрстки и создания сайтов на Wordpress.
 ## Langueages && Tools
+![Flutter](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html5)
 ![Flutter](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![Flutter](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/vue-090909?style=for-the-badge&logo=vuedotjs)
@@ -13,6 +14,5 @@
 ![Flutter](https://img.shields.io/badge/Wordpress-090909?style=for-the-badge&logo=wordpress)
 
 ## Contacts
-
--E-mail: dimavdovkin98@mail.ru.
--Telegram: @heccbert3.
+* E-mail: dimavdovkin98@mail.ru
+* Telegram: @heccbert3
