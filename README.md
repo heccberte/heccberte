@@ -14,5 +14,5 @@
 
 ## Contacts
 
-*e-mail: dimavdovkin98@mail.ru
-*Telegram: @heccbert3
+-E-mail: dimavdovkin98@mail.ru.
+-Telegram: @heccbert3.
