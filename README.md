@@ -4,7 +4,7 @@
 Вдовкин Дмитрий Николаевич
 
 ## Junior Frontend developer
-Обучаюсь программированию HTML / CSS / JS и ищу возможность применить знания на практике. 
+Обучаюсь программированию HTML / CSS / JS и ищу возможность применить знания на практике. Изучаю React, Vue. Имеется опыт натягивания вёрстки и создания сайтов на Wordpress.
 ## Langueages && Tools
 ![Flutter](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![Flutter](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
